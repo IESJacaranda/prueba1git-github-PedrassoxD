@@ -7,7 +7,7 @@ López Martínez, Enrique
 Melero Benítez, Manuel
 Mozo Moreno, Herminia
 Naranjo Abril, Raúl
-Pérez Labrada, Pedro José
+~~Pérez Labrada, Pedro José~~
 Prado Izquierdo, Francisco José
 Quevedo García, Salud
 Rabanal Márquez, Fernando Manuel
